@@ -18,7 +18,9 @@ Following transformations were performed by `run_analysis.R` script:
 <h2>Output</h2>
 
 Fields in output data set:
-Activity                        
+<br/>
+Subject
+Activity
 tBodyAcc-mean()-X               
 tBodyAcc-mean()-Y               
 tBodyAcc-mean()-Z              
